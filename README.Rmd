@@ -20,7 +20,7 @@ output:
 
 ## Author
 
-<your name> (<user email>)
+<Bree Taylor> (<bjtaylor@mmc.org>)
 
 ## Contents
 
